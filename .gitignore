@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.venv/
+venv/
+env/
+myenv/
+.ipynb_checkpoints/
+pytest_cache/
+coverage/
+dist/
+build/
+
+# Optional: ignore large/binary models (use Git LFS instead)
+# model/*.pkl
